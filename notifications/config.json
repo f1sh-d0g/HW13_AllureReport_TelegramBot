@@ -1,0 +1,19 @@
+{
+  "base": {
+    "project": "QA Guru HW13",
+    "environment": "qa.guru",
+    "comment": "Домашнее задание 13",
+    "reportLink": "",
+    "language": "ru",
+    "allureFolder": "C:/Users/RUSfi/IdeaProjects/qaGuru32/HW13_AllureReport_TelegramBot/build/reports/allure-report/allureReport",
+    "enableChart": true,
+    "enableSuitesPublishing": false,
+    "customData": {}
+  },
+  "telegram": {
+    "token": "7727371398:AAEEI4xT8Do-6t9Pq0CN9BgbPviSBUMnvzw",
+    "chat": "94601299",
+    "replyTo": "",
+    "templatePath": "/templates/telegram.ftl"
+  }
+}
